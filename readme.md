@@ -28,6 +28,8 @@
 <p class="has-line-data" data-line-start="9" data-line-end="10">To play Gobblet
     Gobblers open the <a href="http://main.py">main.py</a> file.</p>
 <h2 class="code-line" data-line-start=8 data-line-end=9><a id="How_to_use_8"></a>Screenshots</h2>
+
+
 ![](images/game.png)
 
 
