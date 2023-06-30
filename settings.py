@@ -1,0 +1,8 @@
+player1Name = 'Gracz 1'
+player1Colour = 'red'
+player2Name = 'Gracz 2'
+player2Colour = 'blue'
+pawnSizes = '3'
+quantityOfEachSize = '2'
+tableDimension = '3'
+ifAi = 'Nie'
