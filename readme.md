@@ -30,13 +30,14 @@
 <h2 class="code-line" data-line-start=8 data-line-end=9><a id="How_to_use_8"></a>Screenshots</h2>
 
 
+![](images/menu.png)
+
+
+![](images/options.png)
+
+
 ![](images/game.png)
 
 
 ![](images/history.png)
 
-
-![](images/menu.png)
-
-
-![](images/options.png)
